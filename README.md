@@ -1,3 +1,3 @@
-# Software-based Art Structure Ontology (SASO)
+# Software-based Artwork Structure Ontology (SASO)
 
 Description to follow.
